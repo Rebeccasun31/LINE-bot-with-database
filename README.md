@@ -1,11 +1,11 @@
 # LINE-bot-with-database
 一個能幫使用者挑選出想喝的飲料的LINE機器人
 
-111-1 Introduction to Database Systems - Final team project「今天要喝甚麼ㄋ」
+2022-1 Introduction to Database Systems - Final team project「今天要喝甚麼ㄋ」
 
 實作將LINE Bot連線至資料庫
 
-組員：110550033李欣螢、110550034孫承瑞、110550111莊宥瑋、110550158葉家蓁
+組員：孫承瑞、李欣螢、莊宥瑋、葉家蓁
 
 # Introduction
 
